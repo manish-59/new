@@ -1,0 +1,8 @@
+storage_acc_name = 'palsodk'
+cosmos_acc_name = 'syntheadb'
+database_name = 'synthea'
+file_share_name = 'syntheafs'
+file_share_directory = 'r4-small'
+storage_acc_key = 'fzm/HITbDSEEFM7h1Fs5opEbkVtCcwxg1bsi/+aTRKJIMJI3MLm/H7cDYv0jzR+FZpPwLLwS/EMCQx6MZm7uZg=='
+cosmos_acc_key = 'RROR: The Resource 'Microsoft.DocumentDB/databaseAccounts/syntheadb' under resource group 'mkuma430-01' was not found'
+cosmos_acc_endpoint = 'RROR: The Resource 'Microsoft.DocumentDB/databaseAccounts/syntheadb' under resource group 'mkuma430-01' was not found'
